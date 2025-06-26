@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nanfe Yarnap
+# Hi, I’m Nanfe Yarnap
 
 I’m a **Machine Learning Engineer** and **Mathematician** passionate about using intelligent systems, graph theory, and optimization to solve real-world African problems.
 
@@ -6,7 +6,7 @@ With a background in pure mathematics and applied data science, I focus on build
 
 ---
 
-## 🧠 What Drives Me
+## What Drives Me
 
 I believe machine learning should be **more than algorithms and benchmarks** — it should solve problems that actually matter to people. That’s why I build systems that are:
 
@@ -19,7 +19,7 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 ---
 
-## 💼 Skills & Tools
+## Skills & Tools
 
 **Languages & Libraries**  
 `Python`, `NumPy`, `Pandas`, `scikit-learn`, `NetworkX`, `Matplotlib`, `Seaborn`, `R`, `CVXPY`
@@ -32,17 +32,19 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 | 🚀 Project | 🔍 What It’s About |
 |-----------|--------------------|
-| [**Functional Digraph Decomposition**](./functional-digraphs/) | Decomposing functional digraphs into rooted trees using Python & NetworkX — bringing theoretical graph algorithms to life. |
-| [**City Transport Network Model**](./city-transport-model/) | Simulating urban traffic flows using directed graphs and shortest-path models — built to explore city planning challenges in African contexts. |
-| [**Nigerian Asset Inequality Analysis**](./asset-analysis/) | Analyzing disparities in household access to electricity, internet, and transport across regions — revealing patterns that matter for development and policy. |
+| [**Functional Digraph Decomposition (Undergraduate Research)**](./functional-digraphs/) | An academic exploration into decomposing functional digraphs into rooted trees. Focused on theoretical graph concepts with detailed proofs and algorithm analysis. |
+| [**School Accessibility Analysis**](./school-access-analysis/)                          | Mapping and identifying the closest or easiest accessible schools for communities using graph-based shortest path models — aimed at improving educational access planning. |
+| [**NatView Chatbot**](./natview-chatbot/)                                              | Developed a chatbot for NatView Foundation to support user interactions and automate responses. Implemented using [LangChain], focusing on natural language processing and user experience. |
+| [**Graph Theory for AI Security: Detecting Prompt Injection**](./ai-prompt-injection/) | Applying graph theory techniques to detect and prevent prompt injection attacks in AI agents — enhancing robustness and security in conversational AI systems. |
+
 
 ---
 
-## 📌 What I’m Exploring Now
+## What I’m Exploring Now
 
 - Building more ML pipelines for development-focused use cases  
 - Using Graph Theory to understand Attacks on AI Agents 
@@ -54,7 +56,7 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I’m always up for meaningful collaborations — especially if you’re working at the intersection of:
 
