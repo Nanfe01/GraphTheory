@@ -6,7 +6,7 @@ With a background in pure mathematics and applied data science, I focus on build
 
 ---
 
-## 🧠 What Drives Me
+## What Drives Me
 
 I believe machine learning should be **more than algorithms and benchmarks** — it should solve problems that actually matter to people. That’s why I build systems that are:
 
@@ -19,7 +19,7 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 ---
 
-## 💼 Skills & Tools
+## Skills & Tools
 
 **Languages & Libraries**  
 `Python`, `NumPy`, `Pandas`, `scikit-learn`, `NetworkX`, `Matplotlib`, `Seaborn`, `R`, `CVXPY`
@@ -36,12 +36,12 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 | 🚀 Project | 🔍 What It’s About |
 |-----------|--------------------|
-| [**Functional Digraph Decomposition**](./functional-digraphs/) | Decomposing functional digraphs into rooted trees using Python & NetworkX — bringing theoretical graph algorithms to life. |
-| [**City Transport Network Model**](./city-transport-model/) | Simulating urban traffic flows using directed graphs and shortest-path models — built to explore city planning challenges in African contexts. |
+| [**Functional Digraph Decomposition**](./https://docs.google.com/document/d/1cZy6KNrplO9x9fIH38Po_z_fUK7qeoeP1o94Ag-Q_0E/edit?usp=sharing/) | Decomposing functional digraphs into rooted trees using Python & NetworkX — bringing theoretical graph algorithms to life. |
+| [**City Transport Network Model**](.https://colab.research.google.com/drive/1v2zYKenHDrnjux7zGA0WeZUZ4s9Q2lNI?usp=sharing) | Analysing School Access (based on distance) between villages. This project currently uses simulated data but would be upgraded to use live data |
 | [**Graphical Analysis of Prompt Injection in AI Agents**] | Using Graph Theory to Detect and possibly prevent Promt Injection In AI Agents. This project is in progress.
 
 
-## 📌 What I’m Exploring Now
+## What I’m Exploring Now
 
 - Building more ML pipelines for development-focused use cases  
 - Using Graph Theory to understand Attacks on AI Agents 
@@ -53,7 +53,7 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 ---
 
-## 🤝 Let’s Connect
+##Let’s Connect
 
 I’m always up for meaningful collaborations — especially if you’re working at the intersection of:
 
