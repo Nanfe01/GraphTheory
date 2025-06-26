@@ -36,7 +36,7 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 
 | 🚀 Project | 🔍 What It’s About |
 |-----------|--------------------|
-| [**Functional Digraph Decomposition (Undergraduate Research)**](https://docs.google.com/document/d/1cZy6KNrplO9x9fIH38Po_z_fUK7qeoeP1o94Ag-Q_0E/edit?usp=sharing) | An academic exploration into decomposing functional digraphs into rooted trees. Focused on theoretical graph concepts with detailed proofs and algorithm analysis. |
+| [**Functional Digraph Decomposition (Undergraduate Research)**](https://docs.google.com/document/d/1kPi7T3xNsOjY7o7NhUkypBlqSmbqhqssx_MOm9j02vQ/edit?usp=sharing) | An academic exploration into decomposing functional digraphs into rooted trees. Focused on theoretical graph concepts with detailed proofs and algorithm analysis. |
 | [**School Accessibility Analysis**](https://colab.research.google.com/drive/1v2zYKenHDrnjux7zGA0WeZUZ4s9Q2lNI?usp=sharing)                          | Mapping and identifying the closest or easiest accessible schools for communities using graph-based shortest path models — aimed at improving educational access planning. |
 | [**NatView Chatbot**]()                                              | Developed a chatbot for NatView Foundation to support user interactions and automate responses. Implemented using [Python, LangChain, Streamlit, OpenAI API], focusing on natural language processing and user experience. |
 | [**Graph Theory for AI Security: Detecting Prompt Injection**](./ai-prompt-injection/) | Applying graph theory techniques to detect and prevent prompt injection attacks in AI agents — enhancing robustness and security in conversational AI systems. This project is currently in progress.|
