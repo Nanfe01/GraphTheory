@@ -38,9 +38,8 @@ I enjoy bridging the gap between mathematics, machine learning, and social impac
 |-----------|--------------------|
 | [**Functional Digraph Decomposition**](./functional-digraphs/) | Decomposing functional digraphs into rooted trees using Python & NetworkX — bringing theoretical graph algorithms to life. |
 | [**City Transport Network Model**](./city-transport-model/) | Simulating urban traffic flows using directed graphs and shortest-path models — built to explore city planning challenges in African contexts. |
-| [**Nigerian Asset Inequality Analysis**](./asset-analysis/) | Analyzing disparities in household access to electricity, internet, and transport across regions — revealing patterns that matter for development and policy. |
+| [**Graphical Analysis of Prompt Injection in AI Agents**] | Using Graph Theory to Detect and possibly prevent Promt Injection In AI Agents. This project is in progress.
 
----
 
 ## 📌 What I’m Exploring Now
 
